@@ -1,7 +1,7 @@
 # Set Up
-**clone repository:** `git clone `  
-**install dependencies:** `npm install`  
+**clone repository:** `git clone https://github.com/ohruiz98/holocron.git`  
 **cd into directory:** `cd holocron` `cd client`  
+**install dependencies:** `npm install`   
 **start local server:** `node src/index.js`  
 **run webapp locally:** `npm run dev`
 
